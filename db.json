@@ -1,9 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "lista": [
+    {
+      "descricao": "Fruta",
+      "qtd": "10",
+      "und": "kg",
+      "check": false,
+      "id": 3
+    },
+    {
+      "descricao": "Macarrão Teste",
+      "qtd": "10",
+      "und": "kg",
+      "check": true,
+      "id": 4
+    },
+    {
+      "descricao": "Batata",
+      "qtd": "2",
+      "und": "kg",
+      "check": false,
+      "id": 5
+    },
+    {
+      "descricao": "Teste",
+      "qtd": "1",
+      "und": "un",
+      "check": true,
+      "id": 6
+    },
+    {
+      "descricao": "Beterraba",
+      "qtd": 2,
+      "und": "kg",
+      "check": false,
+      "id": 7
+    }
+  ]
 }
